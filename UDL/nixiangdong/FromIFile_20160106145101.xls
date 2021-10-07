@@ -1,0 +1,102 @@
+<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
+  <tbody><tr>
+    <th height=\"35\">&nbsp;</th>
+    <th>月份</th>
+    <th>月消费</th>
+    <th>月点击</th>
+    <th>点击成本</th>
+    <th>总量</th>
+    <th>月对话 | 手机</th>
+    <th>行政类</th>
+    <th>对话成本</th>
+    <th>月下单</th>
+    <th>下单成本</th>
+    <th>下单率</th>
+    <th>月到诊</th>
+    <th>到诊成本</th>
+    <th>到院率</th>
+    <th>月成交</th>
+    <th>成交成本</th>
+    <th>成交率</th>
+  </tr>
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+    <td>1</td>
+    <td>2016年01月</td>
+    <td>143804.07元</td>
+    <td>9810次</td>
+    <td>14.66元/次</td>
+    <td>532</td>
+    <td>484人 | 470人</td>
+    <td>48</td>
+    <td><strong><font color=\"#FF0000\">297.12</font></strong>元/人</td>
+    <td>141人</td>
+    <td>1019.89人/元</td>
+    <td><strong><font color=\"#FF0000\">29.13%</font></strong></td>
+    <td>63人</td>
+    <td>2282.6人/元</td>
+    <td><strong><font color=\"#008000\">13.02%</font></strong></td>
+    <td>42人</td>
+    <td>3423.91元/人</td>
+    <td><strong><font color=\"#008000\">66.67%</font></strong></td>
+  </tr>
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+    <td>2</td>
+    <td>2015年12月</td>
+    <td>782717.29元</td>
+    <td>110332次</td>
+    <td>7.09元/次</td>
+    <td>2776</td>
+    <td>2479人 | 2316人</td>
+    <td>297</td>
+    <td><strong><font color=\"#FF0000\">315.74</font></strong>元/人</td>
+    <td>764人</td>
+    <td>1024.5人/元</td>
+    <td><strong><font color=\"#FF0000\">30.82%</font></strong></td>
+    <td>345人</td>
+    <td>2268.75人/元</td>
+    <td><strong><font color=\"#008000\">13.92%</font></strong></td>
+    <td>179人</td>
+    <td>4372.72元/人</td>
+    <td><strong><font color=\"#FF0000\">51.88%</font></strong></td>
+  </tr>
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+    <td>3</td>
+    <td>2015年11月</td>
+    <td>795272.36元</td>
+    <td>42306次</td>
+    <td>18.8元/次</td>
+    <td>2999</td>
+    <td>2664人 | 2506人</td>
+    <td>335</td>
+    <td><strong><font color=\"#FF0000\">298.53</font></strong>元/人</td>
+    <td>856人</td>
+    <td>929.06人/元</td>
+    <td><strong><font color=\"#FF0000\">32.13%</font></strong></td>
+    <td>321人</td>
+    <td>2477.48人/元</td>
+    <td><strong><font color=\"#008000\">12.05%</font></strong></td>
+    <td>159人</td>
+    <td>5001.71元/人</td>
+    <td><strong><font color=\"#FF0000\">49.53%</font></strong></td>
+  </tr>
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+    <td>4</td>
+    <td>2015年10月</td>
+    <td>693940.96元</td>
+    <td>42717次</td>
+    <td>16.25元/次</td>
+    <td>3209</td>
+    <td>2848人 | 2807人</td>
+    <td>361</td>
+    <td><strong><font color=\"#FF0000\">243.66</font></strong>元/人</td>
+    <td>937人</td>
+    <td>740.6人/元</td>
+    <td><strong><font color=\"#FF0000\">32.9%</font></strong></td>
+    <td>355人</td>
+    <td>1954.76人/元</td>
+    <td><strong><font color=\"#008000\">12.46%</font></strong></td>
+    <td>147人</td>
+    <td>4720.69元/人</td>
+    <td><strong><font color=\"#FF0000\">41.41%</font></strong></td>
+  </tr>
+  </tbody></table>

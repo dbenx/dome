@@ -1,0 +1,211 @@
+<table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">
+    <tbody><tr>
+      <th height=\"35\" colspan=\"9\">基本情况</th>
+    </tr>
+    <tr>
+      <th height=\"35\">日期</th>
+      <th>渠道类型</th>
+      <th>资金投入</th>
+      <th>手机投入</th>
+      <th>PC投入</th>
+      <th>展现量</th>
+      <th>点击次数</th>
+      <th>点击价格</th>
+      <th>点击率</th>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-01</td>
+      <td>全账户</td>
+      <td>41417.17</td>
+      <td>37333.66</td>
+      <td>4083.51</td>
+      <td>235763</td>
+      <td>5524</td>
+      <td>7.5</td>
+      <td>2.34%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-02</td>
+      <td>全账户</td>
+      <td>44093.76</td>
+      <td>39716.72</td>
+      <td>4377.04</td>
+      <td>318636</td>
+      <td>2760</td>
+      <td>15.98</td>
+      <td>0.87%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-03</td>
+      <td>全账户</td>
+      <td>48672.2</td>
+      <td>44379.14</td>
+      <td>4293.06</td>
+      <td>9315</td>
+      <td>337917</td>
+      <td>0.14</td>
+      <td>3627.67%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-04</td>
+      <td>全账户</td>
+      <td>50754.25</td>
+      <td>45995.56</td>
+      <td>4758.69</td>
+      <td>320966</td>
+      <td>3193</td>
+      <td>15.9</td>
+      <td>0.99%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-05</td>
+      <td>全账户</td>
+      <td>44111.06</td>
+      <td>39630.52</td>
+      <td>4480.54</td>
+      <td>154646</td>
+      <td>2412</td>
+      <td>18.29</td>
+      <td>1.56%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-06</td>
+      <td>全账户</td>
+      <td>31881.29</td>
+      <td>28719.28</td>
+      <td>3162.01</td>
+      <td>130565</td>
+      <td>1954</td>
+      <td>16.32</td>
+      <td>1.5%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-07</td>
+      <td>全账户</td>
+      <td>32054.88</td>
+      <td>28631.42</td>
+      <td>3423.46</td>
+      <td>221871</td>
+      <td>2289</td>
+      <td>14</td>
+      <td>1.03%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-08</td>
+      <td>全账户</td>
+      <td>34358.62</td>
+      <td>30142.33</td>
+      <td>4216.29</td>
+      <td>295556</td>
+      <td>2302</td>
+      <td>14.93</td>
+      <td>0.78%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-09</td>
+      <td>全账户</td>
+      <td>35607.15</td>
+      <td>32199.8</td>
+      <td>3407.35</td>
+      <td>292788</td>
+      <td>2618</td>
+      <td>13.6</td>
+      <td>0.89%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-10</td>
+      <td>全账户</td>
+      <td>34833.96</td>
+      <td>31164.15</td>
+      <td>3669.81</td>
+      <td>299643</td>
+      <td>2819</td>
+      <td>12.36</td>
+      <td>0.94%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-11</td>
+      <td>全账户</td>
+      <td>35336.66</td>
+      <td>31480.85</td>
+      <td>3855.81</td>
+      <td>292006</td>
+      <td>2979</td>
+      <td>11.86</td>
+      <td>1.02%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-12</td>
+      <td>全账户</td>
+      <td>32365.23</td>
+      <td>30244.28</td>
+      <td>2120.95</td>
+      <td>288308</td>
+      <td>2575</td>
+      <td>12.57</td>
+      <td>0.89%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-13</td>
+      <td>全账户</td>
+      <td>34914.68</td>
+      <td>31890.3</td>
+      <td>3024.38</td>
+      <td>285531</td>
+      <td>2749</td>
+      <td>12.7</td>
+      <td>0.96%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-14</td>
+      <td>全账户</td>
+      <td>33894.98</td>
+      <td>30585.46</td>
+      <td>3309.52</td>
+      <td>272170</td>
+      <td>2515</td>
+      <td>13.48</td>
+      <td>0.92%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\">
+      <td>2016-03-15</td>
+      <td>全账户</td>
+      <td>32456.31</td>
+      <td>28892.97</td>
+      <td>3563.34</td>
+      <td>251595</td>
+      <td>2408</td>
+      <td>13.48</td>
+      <td>0.96%</td>
+    </tr>
+        
+    <tr>
+      <td>合计</td>
+      <td>&nbsp;</td>
+      <td>566752.2</td>
+      <td>511006.44</td>
+      <td>55745.76</td>
+      <td>3669359</td>
+      <td>377014</td>
+      <td>1.5</td>
+      <td>10.27%</td>
+    </tr>
+    <tr>
+      <td colspan=\"9\" style=\"height:2px; padding:0px; font-size:0px;\" bgcolor=\"#791d77\">&nbsp;</td>
+    </tr>
+    </tbody></table>

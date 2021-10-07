@@ -1,0 +1,198 @@
+<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
+        
+    <tbody><tr>
+      <th height=\"35\" colspan=\"12\">基本情况</th>
+    </tr>
+    <tr>
+      <th height=\"35\">日期</th>
+      <th>渠道类型</th>
+      <th>资金投入</th>
+      <th>手机投入</th>
+      <th>PC投入</th>
+      <th>对话量</th>
+      <th>手机对话</th>
+      <th>对话成本</th>
+      <th>展现量</th>
+      <th>点击次数</th>
+      <th>点击价格</th>
+      <th>点击率</th>
+    </tr>
+    <tr style=\"background-color: rgb(255, 255, 255);\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\">
+      <td>2015-12-12</td>
+      <td>百度推广(gy-gyml)</td>
+      <td>16548.43</td>
+      <td>14544.13</td>
+      <td>2004.3</td>
+      <td>28</td>
+      <td>27</td>
+      <td>591.02</td>
+      <td>63872</td>
+      <td>807</td>
+      <td>20.51</td>
+      <td>1.26%</td>
+    </tr>
+        <tr onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\">
+      <td>2015-12-12</td>
+      <td>百度推广(gy-dangdai)</td>
+      <td>3009.6</td>
+      <td>2792.78</td>
+      <td>216.82</td>
+      <td>7</td>
+      <td>5</td>
+      <td>429.94</td>
+      <td>8042</td>
+      <td>247</td>
+      <td>12.18</td>
+      <td>3.07%</td>
+    </tr>
+        <tr onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\">
+      <td>2015-12-12</td>
+      <td>百度健康(gy-gyml)</td>
+      <td>222.33</td>
+      <td>0</td>
+      <td>222.33</td>
+      <td>2</td>
+      <td>2</td>
+      <td>111.17</td>
+      <td>0</td>
+      <td>29</td>
+      <td>7.67</td>
+      <td>0%</td>
+    </tr>
+        <tr onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\">
+      <td>2015-12-12</td>
+      <td>百度网盟(gy-gyml)</td>
+      <td>116.46</td>
+      <td>0</td>
+      <td>116.46</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>33121</td>
+      <td>71</td>
+      <td>1.64</td>
+      <td>0.21%</td>
+    </tr>
+        <tr onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\">
+      <td>2015-12-12</td>
+      <td>360推广(Mylike)</td>
+      <td>447.91</td>
+      <td>41.53</td>
+      <td>406.38</td>
+      <td>3</td>
+      <td>0</td>
+      <td>149.3</td>
+      <td>1826</td>
+      <td>44</td>
+      <td>10.18</td>
+      <td>2.41%</td>
+    </tr>
+        <tr onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\">
+      <td>2015-12-12</td>
+      <td>Sogou推广(Mylike)</td>
+      <td>1972.78</td>
+      <td>1576.78</td>
+      <td>396</td>
+      <td>8</td>
+      <td>6</td>
+      <td>246.6</td>
+      <td>1671</td>
+      <td>231</td>
+      <td>8.54</td>
+      <td>13.82%</td>
+    </tr>
+        <tr onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\">
+      <td>2015-12-12</td>
+      <td>360推广(dangdai)</td>
+      <td>312.48</td>
+      <td>63.82</td>
+      <td>248.66</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1784</td>
+      <td>30</td>
+      <td>10.42</td>
+      <td>1.68%</td>
+    </tr>
+        <tr onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\">
+      <td>2015-12-12</td>
+      <td>Sogou推广(dangdai)</td>
+      <td>270.04</td>
+      <td>242.65</td>
+      <td>27.39</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>421</td>
+      <td>66</td>
+      <td>4.09</td>
+      <td>15.68%</td>
+    </tr>
+        <tr>
+      <td>小计</td>
+      <td></td>
+      <td>22900.03</td>
+      <td>19261.69</td>
+      <td>3638.34</td>
+      <td>48</td>
+      <td>40</td>
+      <td>477.08</td>
+      <td>110737</td>
+      <td>1525</td>
+      <td>15.02</td>
+      <td>1.38%</td>
+    </tr>
+    <tr>
+      <td>2015-12-12</td>
+      <td colspan=\"11\">
+      <table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
+          <tbody><tr>
+            <td bgcolor=\"#eeeeee\">总投入</td>
+            <td>22900.03元</td>
+            <td bgcolor=\"#eeeeee\">总对话</td>
+            <td>74人</td>
+            <td bgcolor=\"#eeeeee\">对话成本</td>
+            <td>309.46元/人</td>
+            <td bgcolor=\"#eeeeee\">下单量</td>
+            <td>17人</td>
+            <td bgcolor=\"#eeeeee\">下单率</td>
+            <td>23%</td>
+            <td bgcolor=\"#eeeeee\">下单成本</td>
+            <td>1347.06元/人</td>
+          </tr>
+          <tr>
+            <td bgcolor=\"#eeeeee\">到诊量</td>
+            <td>8人</td>
+            <td bgcolor=\"#eeeeee\">到诊率</td>
+            <td>10.81%</td>
+            <td bgcolor=\"#eeeeee\">到诊成本</td>
+            <td>2862.5元/人</td>
+            <td bgcolor=\"#eeeeee\">成交量</td>
+            <td>2人</td>
+            <td bgcolor=\"#eeeeee\">成交率</td>
+            <td>25%</td>
+            <td bgcolor=\"#eeeeee\">成交成本</td>
+            <td>11450.02元/人</td>
+          </tr>
+          <tr>
+            <td bgcolor=\"#eeeeee\">PC对话</td>
+            <td>7人</td>
+            <td bgcolor=\"#eeeeee\">手机对话</td>
+            <td>67人</td>
+            <td bgcolor=\"#eeeeee\">行政无效</td>
+            <td>8人</td>
+            <td bgcolor=\"#eeeeee\">网咨有效</td>
+            <td>52人</td>
+            <td bgcolor=\"#eeeeee\">网站访问</td>
+            <td>1821</td>
+            <td bgcolor=\"#eeeeee\">企业QQ</td>
+            <td>0</td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+    <tr>
+      <td style=\"padding: 0px; height: 2px; font-size: 0px;\" bgcolor=\"#791d77\" colspan=\"12\">&nbsp;</td>
+    </tr>
+    	</tbody></table>

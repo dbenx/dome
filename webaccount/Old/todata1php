@@ -1,0 +1,64 @@
+<?
+
+/*
+ *2011-1-14
+ *
+ *From :YumDam
+ *
+ *E-mail:yumdam@yumdam.com
+ *
+ *QQ:992360020
+ *
+ *http://www.yumdam.com/
+ *
+ */
+include("../Config/Config.Inc.php");####加载配置文件
+
+if($YumDamGId!="1"&&$YumDamGId!="3")
+{
+	YumDamShowMsgExit("抱歉,您未获得此权限！","./");
+	exit;
+	}
+
+		
+
+$mt1='#_@indata';
+
+
+
+if($_GET["in"]=="yes")
+{
+#####################################################################################################
+
+
+$mt3='#_@formdata3';
+$mt4='#_@dataclass';###
+
+
+###################################################################################################################################
+#$ListItemShowMonthWhere="  and $mt4.`selecttime` between ".$date1." and ".$date2;
+$sql=" select $mt4.`selecttime`,$mt3.* from $mt3,$mt4 where $mt3.`fdate`=$mt4.`Id`";
+$cont=$YumDamSql->selectsql($sql);
+
+
+$mycont=$cont["select"];
+#print_r($cont);exit;
+
+
+#####################################################################################################
+
+foreach($mycont as $k=>$v)
+{
+
+$field1="`fdate`,`talkall`,`talkwap`,`retalk1`,`retalk2`,`notalk`,`issys`,`isfrom`,`isok`,`webip`,`bqq`,`indate`,`uip`,`inuser`";
+
+$field2="'".$v["selecttime"]."','".$v["talkall"]."','".$v["talkwap"]."','".$v["retalk1"]."','".$v["retalk2"]."','".$v["notalk"]."','".$v["issys"]."','".$v["isfrom"]."','".$v["isok"]."','".$v["webip"]."','".$v["bqq"]."',".$v["indate"].",'".$v["inip"]."','1'";
+#echo $field2."\n";
+$IRes=$YumDamSql->insertdb($mt1,$field1,$field2);
+}
+
+
+exit;		
+}
+
+?>

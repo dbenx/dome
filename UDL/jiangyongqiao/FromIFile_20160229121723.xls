@@ -1,0 +1,202 @@
+<table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">
+        
+    <tbody><tr>
+      <th height=\"35\" colspan=\"14\">基本情况</th>
+    </tr>
+    <tr>
+      <th height=\"35\">日期</th>
+      <th>渠道类型</th>
+      <th>资金投入</th>
+      <th>手机投入</th>
+      <th>PC投入</th>
+      <th>对话量</th>
+      <th>手机对话</th>
+      <th>对话成本</th>
+      <th>展现量</th>
+      <th>点击次数</th>
+      <th>点击价格</th>
+      <th>点击率</th>
+      <th>品牌消费</th>
+      <th>行业消费</th>
+    </tr>
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>2016-02-28</td>
+      <td>百度推广(美莱)</td>
+      <td>6647.53</td>
+      <td>5247.52</td>
+      <td>1400.01</td>
+      <td>25</td>
+      <td>16</td>
+      <td>265.9</td>
+      <td>33541</td>
+      <td>323</td>
+      <td>20.58</td>
+      <td>0.96%</td>
+      <td>204.46</td>
+      <td>1319.54</td>
+    </tr>
+        <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>2016-02-28</td>
+      <td>陌陌推广</td>
+      <td>4913.76</td>
+      <td>4913.76</td>
+      <td>0</td>
+      <td>17</td>
+      <td>17</td>
+      <td>289.04</td>
+      <td>244295</td>
+      <td>899</td>
+      <td>5.47</td>
+      <td>0.37%</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+        <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>2016-02-28</td>
+      <td>百度推广(口腔)</td>
+      <td>1001.22</td>
+      <td>623.25</td>
+      <td>377.97</td>
+      <td>10</td>
+      <td>8</td>
+      <td>100.12</td>
+      <td>2370</td>
+      <td>102</td>
+      <td>9.82</td>
+      <td>4.3%</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+        <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>2016-02-28</td>
+      <td>百度推广(当代)</td>
+      <td>24048.54</td>
+      <td>22325.14</td>
+      <td>1723.4</td>
+      <td>65</td>
+      <td>60</td>
+      <td>369.98</td>
+      <td>38078</td>
+      <td>1702</td>
+      <td>14.13</td>
+      <td>4.47%</td>
+      <td>596.18</td>
+      <td>1956.81</td>
+    </tr>
+        <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>2016-02-28</td>
+      <td>百度健康(gy-gyml)</td>
+      <td>85.09</td>
+      <td>57.93</td>
+      <td>27.16</td>
+      <td>1</td>
+      <td>1</td>
+      <td>85.09</td>
+      <td>1322</td>
+      <td>12</td>
+      <td>7.09</td>
+      <td>0.91%</td>
+      <td>52.3</td>
+      <td>0</td>
+    </tr>
+        <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>2016-02-28</td>
+      <td>360推广(Mylike)</td>
+      <td>595.74</td>
+      <td>77.74</td>
+      <td>518</td>
+      <td>1</td>
+      <td>0</td>
+      <td>595.74</td>
+      <td>3602</td>
+      <td>95</td>
+      <td>6.27</td>
+      <td>2.64%</td>
+      <td>47.12</td>
+      <td>138.99</td>
+    </tr>
+        <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>2016-02-28</td>
+      <td>Sogou推广(Mylike)</td>
+      <td>3000</td>
+      <td>2572.5</td>
+      <td>427.5</td>
+      <td>18</td>
+      <td>15</td>
+      <td>166.67</td>
+      <td>3146</td>
+      <td>328</td>
+      <td>9.15</td>
+      <td>10.43%</td>
+      <td>29.79</td>
+      <td>226.04</td>
+    </tr>
+        <tr>
+      <td>小计</td>
+      <td></td>
+      <td>40291.88</td>
+      <td>35817.84</td>
+      <td>4474.04</td>
+      <td>137</td>
+      <td>117</td>
+      <td>294.1</td>
+      <td>326354</td>
+      <td>3461</td>
+      <td>11.64</td>
+      <td>1.06%</td>
+      <td>929.85</td>
+      <td>3641.38</td>
+    </tr>
+    <tr>
+      <td>2016-02-28</td>
+      <td colspan=\"13\">
+      <table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
+          <tbody><tr>
+            <td bgcolor=\"#eeeeee\">总投入</td>
+            <td>40291.88元</td>
+            <td bgcolor=\"#eeeeee\">总对话</td>
+            <td>156人</td>
+            <td bgcolor=\"#eeeeee\">对话成本</td>
+            <td>258.28元/人</td>
+            <td bgcolor=\"#eeeeee\">下单量</td>
+            <td>37人</td>
+            <td bgcolor=\"#eeeeee\">下单率</td>
+            <td>24%</td>
+            <td bgcolor=\"#eeeeee\">下单成本</td>
+            <td>1088.97元/人</td>
+          </tr>
+          <tr>
+            <td bgcolor=\"#eeeeee\">到诊量</td>
+            <td>12人</td>
+            <td bgcolor=\"#eeeeee\">到诊率</td>
+            <td>7.69%</td>
+            <td bgcolor=\"#eeeeee\">到诊成本</td>
+            <td>3357.66元/人</td>
+            <td bgcolor=\"#eeeeee\">成交量</td>
+            <td>6人</td>
+            <td bgcolor=\"#eeeeee\">成交率</td>
+            <td>50%</td>
+            <td bgcolor=\"#eeeeee\">成交成本</td>
+            <td>6715.31元/人</td>
+          </tr>
+          <tr>
+            <td bgcolor=\"#eeeeee\">PC对话</td>
+            <td>16人</td>
+            <td bgcolor=\"#eeeeee\">手机对话</td>
+            <td>140人</td>
+            <td bgcolor=\"#eeeeee\">行政无效</td>
+            <td>18人</td>
+            <td bgcolor=\"#eeeeee\">网咨有效</td>
+            <td>107人</td>
+            <td bgcolor=\"#eeeeee\">网站访问</td>
+            <td>3129</td>
+            <td bgcolor=\"#eeeeee\">企业QQ</td>
+            <td>0</td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+    <tr>
+      <td colspan=\"14\" style=\"height:2px; padding:0px; font-size:0px;\" bgcolor=\"#791d77\">&nbsp;</td>
+    </tr>
+    	</tbody></table>

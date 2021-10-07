@@ -1,0 +1,41 @@
+<table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">    
+    <tbody><tr>
+      <th height=\"35\" colspan=\"9\">基本情况</th>
+    </tr>
+    <tr>
+      <th height=\"35\">日期</th>
+      <th bgcolor=\"#eeeeee\">百度竞价</th>
+      <th>百度健康</th>
+      <th bgcolor=\"#eeeeee\">百度网盟</th>
+      <th>360搜索</th>
+      <th bgcolor=\"#eeeeee\">Sogou搜索</th>
+      <th>微信</th>
+      <th bgcolor=\"#eeeeee\">门户</th>
+      <th>未知来源</th>
+    </tr>
+    <tr>
+      <td>2016-01-07</td>
+      <td bgcolor=\"#eeeeee\">62</td>
+      <td>0</td>
+      <td bgcolor=\"#eeeeee\">0</td>
+      <td>7</td>
+      <td bgcolor=\"#eeeeee\">9</td>
+      <td>2</td>
+      <td bgcolor=\"#eeeeee\">0</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <td colspan=\"9\" style=\"height:1px; padding:0px; font-size:0px;\" bgcolor=\"#791d77\">&nbsp;</td>
+    </tr>
+        <tr>
+      <td>合计</td>
+      <td bgcolor=\"#eeeeee\">62</td>
+      <td>0</td>
+      <td bgcolor=\"#eeeeee\">0</td>
+      <td>7</td>
+      <td bgcolor=\"#eeeeee\">9</td>
+      <td>2</td>
+      <td bgcolor=\"#eeeeee\">0</td>
+      <td>35</td>
+    </tr>
+	</tbody></table>

@@ -1,0 +1,172 @@
+<table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">
+    <tbody><tr>
+      <th height=\"35\" colspan=\"12\">基本情况</th>
+    </tr>
+    <tr>
+      <th height=\"35\">日期</th>
+      <th>渠道类型</th>
+      <th>资金投入</th>
+      <th>手机投入</th>
+      <th>PC投入</th>
+      <th>对话量</th>
+      <th>手机对话</th>
+      <th>对话成本</th>
+      <th>展现量</th>
+      <th>点击次数</th>
+      <th>点击价格</th>
+      <th>点击率</th>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>201512</td>
+      <td>百度推广(gy-gyml)</td>
+      <td>431596.46</td>
+      <td>358401.03</td>
+      <td>73195.43</td>
+      <td>594</td>
+      <td>486</td>
+      <td>726.59</td>
+      <td>1772682</td>
+      <td>82562</td>
+      <td>5.23</td>
+      <td>4.66%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>201512</td>
+      <td>百度推广(gy-dangdai)</td>
+      <td>95822.37</td>
+      <td>85991.2</td>
+      <td>9831.17</td>
+      <td>174</td>
+      <td>149</td>
+      <td>550.7</td>
+      <td>219836</td>
+      <td>6898</td>
+      <td>13.89</td>
+      <td>3.14%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>201512</td>
+      <td>百度健康(gy-gyml)</td>
+      <td>17897.03</td>
+      <td>2945.09</td>
+      <td>14951.94</td>
+      <td>106</td>
+      <td>99</td>
+      <td>168.84</td>
+      <td>20723</td>
+      <td>1403</td>
+      <td>12.76</td>
+      <td>6.77%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>201512</td>
+      <td>百度网盟(gy-gyml)</td>
+      <td>629.54</td>
+      <td>0</td>
+      <td>629.54</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>364519</td>
+      <td>633</td>
+      <td>0.99</td>
+      <td>0.17%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>201512</td>
+      <td>360推广(Mylike)</td>
+      <td>15826.36</td>
+      <td>1008.24</td>
+      <td>14818.12</td>
+      <td>55</td>
+      <td>7</td>
+      <td>287.75</td>
+      <td>62542</td>
+      <td>1429</td>
+      <td>11.08</td>
+      <td>2.28%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>201512</td>
+      <td>Sogou推广(Mylike)</td>
+      <td>43505.95</td>
+      <td>29271.89</td>
+      <td>14234.06</td>
+      <td>147</td>
+      <td>103</td>
+      <td>295.96</td>
+      <td>40102</td>
+      <td>4855</td>
+      <td>8.96</td>
+      <td>12.11%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>201512</td>
+      <td>360推广(dangdai)</td>
+      <td>10253.44</td>
+      <td>931.13</td>
+      <td>9322.31</td>
+      <td>24</td>
+      <td>4</td>
+      <td>427.23</td>
+      <td>66858</td>
+      <td>1237</td>
+      <td>8.29</td>
+      <td>1.85%</td>
+    </tr>
+        
+    <tr onmouseout=\"this.style.backgroundColor=\'#FFFFFF\'\" onmouseover=\"this.style.backgroundColor=\'#eeeeee\'\" style=\"background-color: rgb(255, 255, 255);\">
+      <td>201512</td>
+      <td>Sogou推广(dangdai)</td>
+      <td>5211.03</td>
+      <td>4641.7</td>
+      <td>569.33</td>
+      <td>21</td>
+      <td>18</td>
+      <td>248.14</td>
+      <td>8332</td>
+      <td>1088</td>
+      <td>4.79</td>
+      <td>13.06%</td>
+    </tr>
+        
+    <tr>
+      <td>小计</td>
+      <td></td>
+      <td>620742.18</td>
+      <td>483190.28</td>
+      <td>137551.9</td>
+      <td>1121</td>
+      <td>866</td>
+      <td>553.74</td>
+      <td>2555594</td>
+      <td>100105</td>
+      <td>6.2</td>
+      <td>3.92%</td>
+    </tr>
+        
+    <tr>
+      <td>合计</td>
+      <td></td>
+      <td>620742.18</td>
+      <td>483190.28</td>
+      <td>137551.9</td>
+      <td>1121</td>
+      <td>866</td>
+      <td>553.74</td>
+      <td>2555594</td>
+      <td>100105</td>
+      <td>6.2</td>
+      <td>3.92%</td>
+    </tr>
+    <tr>
+      <td colspan=\"12\" style=\"height:2px; padding:0px; font-size:0px;\" bgcolor=\"#791d77\">&nbsp;</td>
+    </tr>
+    </tbody></table>

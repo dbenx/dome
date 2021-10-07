@@ -1,0 +1,18 @@
+<table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">
+    <tbody><tr>
+      <th style=\"height:35px;\">日期</th>
+      <th>项目名称</th>
+      <th>咨询量</th>
+      <th>消费金额</th>
+      <th>咨询成本</th>
+      <th>下单量</th>
+      <th>下单率</th>
+      <th>下单成本</th>
+      <th>到诊量</th>
+      <th>到诊率</th>
+      <th>到诊成本</th>
+      <th>成交量</th>
+      <th>成交率</th>
+      <th>成交成本</th>
+    </tr>
+    </tbody></table>

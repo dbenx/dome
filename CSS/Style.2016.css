@@ -1,0 +1,278 @@
+@charset "utf-8";
+/*
+ *2011-1-14
+ *
+ *From :YumDam
+ *
+ *E-mail:yumdam@yumdam.com
+ *
+ *QQ:992360020
+ *
+ *http://www.yumdam.com/
+ *
+ */
+
+/* CSS Document */
+/* 全局样式 */
+/*html { filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); }*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body, dl, dt, dd, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, table, td, img, div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    color: #000;
+    font-size: 12px;
+    margin: 0px;
+    font-family: "Tahoma, Geneva, sans-serif", "Arial Black", "微软雅黑";
+    background-color: #FFF;
+}
+
+ul, ol {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    line-height: 25px;
+}
+
+select, input, img, select {
+    vertical-align: middle;
+}
+
+img {
+    vertical-align: top;
+}
+
+a {
+    text-decoration: none;
+    border: none;
+}
+
+a:link {
+    color: #000;
+}
+
+a:visited {
+    color: #000;
+}
+
+a:hover, a:active, a:focus {
+    text-decoration: underline;
+}
+
+.clearit {
+    clear: both;
+}
+
+* html {
+    background-image: url(about:blank);
+    background-attachment: fixed;
+    margin: 0px;
+    padding: 0px;
+}
+
+.Main {
+    margin: 0 auto;
+    width: 1000px;
+    background: #FFFFFF;
+}
+
+.Cont {
+    height: auto;
+    width: auto;
+    padding: 10px 20px;
+    border-bottom: solid 1px #cccccc;
+    border-top: solid 1px #cccccc;
+    margin-bottom: 10px;
+}
+
+.Tinfo {
+    height: 32px;
+    line-height: 32px;
+}
+
+.Tinfo2 {
+    height: 30px;
+    line-height: 30px;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    text-align: center;
+}
+
+.Content {
+    height: auto;
+}
+
+.Content td {
+    border-bottom: dashed 1px #cccccc;
+    height: 34px;
+    padding: 5px 10px;
+}
+
+.Content .noborder td {
+    border-bottom: none;
+}
+
+.Content .ItemL {
+    float: left;
+    width: 100px;
+}
+
+.Content .ItemR {
+    margin: 0px 0px 0px 100px;
+}
+
+.Content .Item {
+    line-height: 35px;
+    padding: 0px 5px;
+    float: left;
+    margin: 5px 0px;
+}
+
+.Content .Item2 {
+    background: #CCC;
+}
+
+.ContBtn {
+    height: 28px;
+    line-height: 28px;
+    padding: 10px 100px 10px 200px;
+}
+
+.InPutTxt {
+    width: 350px;
+    height: 28px;
+    line-height: 28px;
+    border: solid 1px #CAE8F2;
+    padding: 2px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.Cont .inputbtn, .Cont .B {
+    padding: 5px 10px;
+    background: #CAE8F2;
+    color: #000000;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    display: inline-block;
+    border: none;
+}
+
+
+/*------------------New-----------------*/
+.DivTitle {
+    height: 50px;
+    line-height: 50px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #791d77;
+    border-bottom: solid 1px #cccccc;
+}
+
+.TdTitle {
+    color: #FFF;
+    font-size: 14px;
+    text-align: right;
+}
+
+.TdTxt {
+    width: 180px;
+    line-height: 30px;
+    height: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    background: #FFF;
+    color: #212121;
+    padding: 2px;
+    margin: 5px 0px;
+}
+
+.TdBtn {
+    width: auto;
+    line-height: 30px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    background: #791d77;
+    padding: 5px 16px;
+    margin: 0px 5px;
+    color: #FFF;
+}
+
+.Content .NoBorder td {
+    border: none;
+}
+
+.Content .Slt {
+    width: 200px;
+    line-height: 35px;
+    font-size: 14px;
+    background: url(/Images/t2_03.jpg) 185px center no-repeat #efefef;
+    color: #791d77;
+    padding: 0px 5px;
+    margin: 5px;
+    cursor: pointer;
+    _cursor: hand;
+}
+
+.Content .Slt2 {
+    width: 200px;
+    line-height: 35px;
+    font-size: 14px;
+    background: #efefef;
+    color: #791d77;
+    padding: 0px 5px;
+    margin: 5px;
+    float: left;
+    cursor: pointer;
+    _cursor: hand;
+    text-align: center;
+}
+
+.Content .TimeSlt {
+    width: 120px;
+    text-align: center;
+    line-height: 30px;
+    font-weight: bold;
+    color: #F00;
+    padding: 0px 5px;
+    margin: 5px;
+    float: left;
+    cursor: pointer;
+    _cursor: hand;
+}
+
+.Content .TimeSlt2 {
+    width: 120px;
+    text-align: center;
+    line-height: 30px;
+    font-weight: bold;
+    background: #efefef;
+    padding: 0px 5px;
+    margin: 5px;
+    float: left;
+    cursor: pointer;
+    _cursor: hand;
+}
+
+
+.TdTxt2 {
+    width: 80px;
+}
+
+.Content .HdTitle {
+    line-height: 35px;
+    text-align: center;
+    color: #791d77;
+    font-size: 14px;
+}

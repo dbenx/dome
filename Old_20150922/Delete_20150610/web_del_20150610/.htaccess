@@ -1,0 +1,21 @@
+﻿#AuthName "Please Input Your UserName And Password!"
+#AuthType Basic
+#AuthUserFile ./.htpasswd
+#Require valid-user
+
+Order Allow,Deny
+Allow from All
+#Deny from 121.12.127.75
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+
+RewriteCond % !^$
+RewriteRule Config/(.*).(php)$ – [F]
+RewriteRule MySid/(.*).(php)$ – [F]
+RewriteRule Uploads/(.*).(php)$ – [F]
+
+
+
+
+</IfModule>
